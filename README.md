@@ -19,6 +19,7 @@
 
 - Twitter como fonte de dados;
 - Twitter fornece uma API
+- Decidi colocar o nome e sobre nome de cada candidato, para minimizar a quantidades de Twittes que não são sobre os candidatos e sim sobre outras pessoas.
 
 # Etapa 3 - EDA, Storytelling e Visualização
 
